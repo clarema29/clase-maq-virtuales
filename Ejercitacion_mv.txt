@@ -1,0 +1,32 @@
+Preguntas máquina virtual
+
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sitemas operativos y en otros no?
+
+La compatibilidad de un lenguaje de programación con un sistema operativo depende de varios factores, como ls características y funcioonalidades del lenguaje, así como las interfaces y bibliotecas disponibles en el sistema operativo en cuestión.
+
+¿Qué tipo de maquina virtual soporta virtualBox?
+
+Soprta máquinas virtuales de proceso, completas y de red.
+Los sistemas operativos que puede emular son: Windows (3.x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6). OS/2, NetBSD, OpenBSD, Netware, Solaris y L4.
+
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Cumple la función de crear y ejecutar maquinas virtuales utilizando los recursos del hardware físico. Actúa como una capa de software que abstrae y aísla máquinas virtuales y sus programas del hardware subyacete.
+
+¿Si tengo más de una máquina virtual instaladas, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+No, porque cada máquina se ejecuta d manera independiente y aislada del resto. Esto debido a que la virtualización permite cada máquina funcione como si fuera un SO y hardware separados, cada una tiene su propui SO, aplicacionesw y recursos asignados, lo que indica que cualquier problema o falla que ocurra en una máquina virtual no pasará a las demás.
+
+
+
+
+
+
+
+
+
+
+
+
